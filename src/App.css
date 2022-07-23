@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.users_list {
+  /* min-height: 100vh; */
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.card {
+  width: 500px;
+  height: auto;
+}
+
+.items {
+  border-radius: 21px;
+  background-color: #61dafb;
+}
